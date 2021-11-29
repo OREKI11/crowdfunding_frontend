@@ -1,0 +1,14 @@
+.frame14113-container {
+  min-height: 100vh;
+}
+.frame14113-container1 {
+  flex: 0 0 auto;
+  width: 812px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+.frame14113-icon {
+  width: 24px;
+  height: 24px;
+}
